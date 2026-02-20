@@ -57,7 +57,7 @@ typer==0.3.2
 typing-extensions==3.10.0.0
 urllib3==1.22
 wasabi==0.8.2
-Werkzeug==2.0.1
+Werkzeug==3.1.6
 WTForms==2.3.3
 zope.event==4.5.0
 zope.interface==5.4.0
